@@ -11,7 +11,6 @@ slideOptions:
 
 - Identify the types of data that machine learning can work with.
 - Decide when deep learning is an appropriate tool for a machine learning task, and know what its downsides can be.
-- NULL
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -29,7 +28,7 @@ slideOptions:
 
 ## Classical Machine Learning and Deep Learning
 
-In the previous episoode, most of our machine learning examples dealt with tabular data. There are numerous different algorithms that work with tabular data, and they all have strengths and weaknesses for different tasks and types and sizes of data. (See the ![](https://scikit-learn.org/stable/index.html){alt='Scikit learn home page'} for a good overview of which algorithms you can use for a given task).
+In the previous episoode, most of our machine learning examples dealt with tabular data. There are numerous different algorithms that work with tabular data, and they all have strengths and weaknesses for different tasks and types and sizes of data. (See the [Scikit learn home page](https://scikit-learn.org/stable/index.html) for a good overview of which algorithms you can use for a given task).
 
 ![](fig/ep-03-cnn-diagram.png){alt='Wikipedia CNN Diagram'}
 

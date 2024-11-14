@@ -1,50 +1,42 @@
 ---
-title: 'Course Learner Profiles'
+title: 'Reference'
 ---
 
-## Course Learner Profiles
-
-### Kunal the Curator
-
-Kunal is a newly hired curator of South Asian Collections at a national library. He holds a PhD in Bengali Language and Literature and has responsibility for cataloguing and acquisitions. His main tasks right now are to get a good understanding of the extent and range of the vast historical collection he is looking after, no easy task as the collection has been acquired over many decades, is potentially in the tens of thousands of items, and catalogue records are of varied quality. He knows that there are digital skills and tools that could help him more systematically approach this work of identifying gaps in the collection as well as improving existing catalogue records.
-
-He is comfortable using tools like Excel and has recently taught himself how to use OpenRefine in order to clean up and try to analyse tens of thousands of bibliographic records he's exported from the catalogue in .xls. Though he's found OpenRefine useful for normalising batches of records and some simple analysis, he feels he has reached its limits. He is interested in going further and looking at machine learning approaches such as Natural Language Processing for better categorising the digitised Bengali printed books, for instance, which he's found have very minimal descriptions and either poor or no OCR at all.
-
-Kunal has no programming language, maths or statistics background but is willing to pick up new skills to get a specific task done. He is not looking to become a full time programmer but would like to understand the different approaches, opportunities, challenges and risks involved in employing AI and Machine learning to collection development and cataloguing. He'd like to get a sense of what methods are out there that he might be able to practically employ himself independently, and where too technical, have knowledge enough to instigate cross-disciplinary collaborations and funding proposals for machine learning based projects on a sound and informed basis.
 
 ## Glossary
 
-{:auto\_ids}
 
-artificial intelligence
+[artificial intelligence]{#ai}
 :
 
-bias
+[bias]{#bias}
 :
 
-machine learning
+[machine learning]{#ml}
 : The study or use of algorithms whose performance improves as they are given more data. Machine learning algorithms often use training data to build a model. Their performance is then measured by how well they predict the properties of test data. It is a set of technologies and methods for finding rules when they are too complex to define. They are systems which find rules, learn, and make predictions from data without being explicitely programmed to do so. <https://glosario.carpentries.org/en/#machine_learning>
 
-model
+[model]{#model}
 : A specification of the mathematical relationship between different variables. <https://glosario.carpentries.org/en/#model>
 
-regression analysis :
+[regression analysis]{#regression} 
+:
 
-reinforcement learning
+[reinforcement learning]{#reinforcement}
 : Any machine learning algorithm which is not given specific goals to meet, but instead is given feedback on whether or not it is making progress. <https://glosario.carpentries.org/en/#reinforcement_learning>
 
-semi-supervised learning :
+[semi-supervised learning]{#semi-supervised} 
+:
 
-supervised learning
+[supervised learning]{#supervised}
 : A machine learning algorithm in which a system is taught to classify values given training data containing previously-classified values. <https://glosario.carpentries.org/en/#supervised_learning>
 
-test data
+[test data]{#test-data}
 : Test data is a portion of a dataset used to evaluate the correctness of a machine learning algorithm after it has been trained. It should always be separated from the training data to ensure that the model is properly tested with unseen data. <https://glosario.carpentries.org/en/#test_data>
 
-training data
+[training data]{#training-data}
 : Training data is a portion of a dataset used to train machine learning algorithm to recognise similar data. It should always be separated from the test data to ensure that the model is properly tested with data it has never seen before. <https://glosario.carpentries.org/en/#training_data>
 
-unsupervised learning
+[unsupervised learning]{#unsupervised}
 : Algorithms that cluster data without knowing in advance what the groups will be. <https://glosario.carpentries.org/en/#unsupervised_learning>
 
 ## External References: Resources Consulted \& Recommended Reading
